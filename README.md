@@ -22,7 +22,7 @@ I'm currently seeking opportunities to contribute and grow in dynamic engineerin
 ## 💼 Education  
 **BSc in Computer Engineering**  
 *Ben-Gurion University (2021-Present)*  
-- GPA: 83.39  
+- GPA: 83.5  
 - Expected Graduation: August 2025 (may extend to 2026).  
 - Relevant Courses: Data Structures, Machine Learning, Analog Electronic Circuits, Real-Time Embedded System Development, Graph Theory and Algorithms  
 
